@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am Shilat Orkaby, currently a scholar of Start@[Google](https://www.google.com/) program. 
-I am an Image Processing Engineer and soon to be a Full-Stack Java developer. 
-I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+
+To connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShilatOrkaby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shilat-orkaby/)](https://www.linkedin.com/in/shilat-orkaby/)
 [![Gmail Badge](https://img.shields.io/badge/-shillat14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shillat14@gmail.com)](mailto:shillat14@gmail.com)
