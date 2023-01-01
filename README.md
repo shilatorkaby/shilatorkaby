@@ -38,6 +38,4 @@ To connect with me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shilatorkaby&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shilatorkaby.shilatorkaby)
