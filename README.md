@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Shilat Orkaby, currently a scholar of Start@[Google](https://www.google.com/) program. 
-
-To connect with me:
+I am Shilat Orkaby, you can connect with me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShilatOrkaby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shilat-orkaby/)](https://www.linkedin.com/in/shilat-orkaby/)
 [![Gmail Badge](https://img.shields.io/badge/-shillat14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shillat14@gmail.com)](mailto:shillat14@gmail.com)
