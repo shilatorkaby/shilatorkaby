@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align="left">Hey, I'm Shilat Orkaby 👋</h1>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"> 
 
-##### I'm Shilat Orkaby, you can connect with me via:
+<h3 align="left">A full stack developer👩🏻‍💻</h3>
+<h4>Please feel free to contact me through:</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShilatOrkaby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shilat-orkaby/)](https://www.linkedin.com/in/shilat-orkaby/)
 [![Gmail Badge](https://img.shields.io/badge/-shillat14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shillat14@gmail.com)](mailto:shillat14@gmail.com)
@@ -35,5 +37,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilatorkaby&show_icons=true&theme=transparent)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilatorkaby&" alt="naama-shenberger" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shilatorkaby.shilatorkaby)
