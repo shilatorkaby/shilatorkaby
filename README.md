@@ -55,6 +55,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilatorkaby&" alt="naama-shenberger" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilatorkaby"/></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shilatorkaby.shilatorkaby)
